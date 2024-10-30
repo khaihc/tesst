@@ -22,5 +22,7 @@
         "@typescript-eslint"
     ],
     "rules": {
+        "quotes": ["error", "single"],
+        "eol-last": ["error", "always"]
     }
 }
