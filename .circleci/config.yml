@@ -30,7 +30,8 @@ jobs:
           name: Install API Dependencies
           command: |
            echo "TODO: Install dependencies in the the backend API  "
-           npm run api:install
+           cd udagram/udagram-api
+           npm install
       # TODO: Lint the frontend
       - run:
           name: Front-End Lint
