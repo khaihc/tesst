@@ -1,4 +1,5 @@
 Link: http://leader-udagram-last1.s3-website-us-east-1.amazonaws.com/home
+EB: http://udagram-api-dev.us-east-1.elasticbeanstalk.com/
 
 # Hosting a Full-Stack Application
 
